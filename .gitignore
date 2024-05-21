@@ -1,0 +1,14 @@
+__pycache__
+.vscode
+/checkpoint/
+/DATASET_ASSET
+/exp
+/logs
+/tensorboardlog
+/output/
+/MOVIE_ASSET
+/test_movie/
+*.mp4
+*.wav
+*.pt
+*.pth
